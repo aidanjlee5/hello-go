@@ -1,0 +1,10 @@
+{
+    "name": "Go Dev Container",
+    "image": "mcr.microsoft.com/vscode/devcontainers/go:0-1",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+      "golang.Go"
+    ]
+  }
